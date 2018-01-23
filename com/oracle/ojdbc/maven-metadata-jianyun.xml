@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.oracle</groupId>
+  <artifactId>ojdbc</artifactId>
+  <versioning>
+    <latest>jdk8</latest>
+    <release>jdk8</release>
+    <versions>
+      <version>jdk6</version>
+      <version>jdk7</version>
+      <version>jdk8</version>
+    </versions>
+    <lastUpdated>20171114062245</lastUpdated>
+  </versioning>
+</metadata>
