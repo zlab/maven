@@ -1,5 +1,5 @@
 ## 用法
-```
+``` xml
 <repository>
   <id>github</id>
   <name>github</name>
@@ -8,7 +8,7 @@
 ```
 
 ## 安装
-```
+``` bash
 cd ~/.m2/repository
 git init
 git remote add origin git@github.com:zlab/maven.git
