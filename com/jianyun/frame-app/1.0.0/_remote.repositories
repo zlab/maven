@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 27 16:49:37 CST 2017
+frame-app-1.0.0.jar>=
+frame-app-1.0.0.pom>=
