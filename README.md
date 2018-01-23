@@ -1,3 +1,13 @@
+## 用法
+```
+<repository>
+  <id>github</id>
+  <name>github</name>
+  <url>https://raw.githubusercontent.com/zlab/maven/master/</url>
+</repository>
+```
+
+## 安装
 ```
 cd ~/.m2/repository
 git init
