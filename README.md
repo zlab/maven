@@ -12,11 +12,12 @@
 cd ~/.m2/repository
 git init
 git remote add origin git@github.com:zlab/maven.git
+git fetch
+git checkout master
 ```
-
 ```
-git branch --set-upstream origin/master
-git pull
+git branch repo-your branch name
+git checkout repo-your brranch name
 ```
 
 ```
