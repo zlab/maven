@@ -18,6 +18,9 @@ git checkout master
 ```
 git branch repo-your branch name
 git checkout repo-your brranch name
+
+repo-acer
+repo-mac
 ```
 
 ```
