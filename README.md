@@ -1,8 +1,8 @@
 ## 用法
 ``` xml
 <repository>
-  <id>github</id>
-  <name>github</name>
+  <id>zlab</id>
+  <name>zlab</name>
   <url>https://raw.githubusercontent.com/zlab/maven/master/</url>
 </repository>
 ```
