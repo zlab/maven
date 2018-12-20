@@ -24,8 +24,9 @@ repo-mac
 ```
 
 ```
+touch .gitignore
 echo "*" >> .gitignore
-git add -f .gitgnore
+git add -f .gitignore
 ```
 
 ```
